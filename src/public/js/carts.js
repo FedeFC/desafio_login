@@ -33,4 +33,3 @@ socket.on('cartProducts', data => {
     `;
 	});
 });
-

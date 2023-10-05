@@ -53,4 +53,3 @@ routerHandlebars.get('/register', (req, res) => {
 });
 
 export default routerHandlebars;
-

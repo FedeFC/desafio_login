@@ -215,5 +215,3 @@ routerCart.delete('/:cid/products/:pid', async (req, res) => {
 });
 
 export default routerCart;
-
-

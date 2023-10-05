@@ -6,3 +6,4 @@ export const createHash = password =>
 
 export const validatePassword = (passwordSended, passwordBBDD) =>
 	bcrypt.compareSync(passwordSended, passwordBBDD);
+	
